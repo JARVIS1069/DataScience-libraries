@@ -1,7 +1,7 @@
 # Array 
 An array is an arrangement of numbers, pictures or objects formatted into rows and columns according to their type.In coding and programming, an array is a collection of items, or data, stored in contiguous memory locations, also as database system.
 
-# Numpy 
+# Numpy  - Numerical Python
 NumPy is a multidimensional array like 1D array , 2D array and 3D array.     
  eg-
 ![Screenshot 2024-08-19 000458](https://github.com/user-attachments/assets/ad372e66-c462-470c-81a0-bb6d3e8d5c6c)
